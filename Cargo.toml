@@ -1,0 +1,8 @@
+[package]
+name = "rust-basics"
+version = "0.1.0"
+edition = "2024"
+authors = ["CGAJAY hello@johnmugendi.com"]
+description = "A beginner friendly intro to Rust"
+
+[dependencies]
