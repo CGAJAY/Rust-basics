@@ -1,3 +1,7 @@
+mod variables;
 fn main() {
-    println!("Hello, world!");
+    println!("RUST BASICS LESSONS");
+
+    // Lesson 1: Variables & Constants
+    variables::run();
 }
