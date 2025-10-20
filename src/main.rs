@@ -1,5 +1,6 @@
 mod variables;
 mod datatypes;
+mod functions;
 fn main() {
     println!("RUST BASICS LESSONS");
 
@@ -8,4 +9,7 @@ fn main() {
 
     // Lesson 2: Data Types
     datatypes::run();
+
+    // Lesson 3: Functions
+    functions::run();
 }
